@@ -1,7 +1,7 @@
 #-*-coding:UTF-8-*-
 #!/bin/python
 '''
-	author: manialuo
+	abcauthor: manialuo
 	desc:   配置文件解析
 '''
 
